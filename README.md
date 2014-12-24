@@ -1,4 +1,1 @@
-discourse-twittercommunity
-==========================
-
-A plugin to add customizations to twittercommunity.com.
+A forked plugin from Discourse to add customizations to lidertarios.com the same way that twittercommunity.com.
